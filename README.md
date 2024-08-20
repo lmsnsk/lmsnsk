@@ -1,18 +1,18 @@
-## Привет👋 Меня зовут Михаил.
-<h1 align="center">Привет👋 Меня зовут Михаил</h1>
+<h3 align="center">Привет👋 Меня зовут Михаил</h1>  
 Ищу работу на должность Frontend-разработчика
-
+\
+\
+🚀 Стек:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
+\
+📧 Для связи:
+\
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/lmsnsk">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
